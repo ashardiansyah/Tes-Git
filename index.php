@@ -1,3 +1,4 @@
-<?php   
-echo "hello git"
-<?
+<?php 
+phpinfo();  
+echo "hello git";
+?>
